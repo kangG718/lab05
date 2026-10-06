@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">사칙연산 계산기</string>
+    <string name="first_number">첫 번째 숫자</string>
+    <string name="second_number">두 번째 숫자</string>
+    <string name="calculate">계산하기</string>
+    <string name="result_placeholder">결과가 여기에 표시됩니다.</string>
+    <string name="enter_both_numbers">숫자 두 개를 입력해 주세요.</string>
+    <string name="invalid_number">올바른 숫자를 입력해 주세요.</string>
+    <string name="divide_by_zero">0으로 나눌 수 없습니다.</string>
+    <string-array name="operations">
+        <item>더하기 (+)</item>
+        <item>빼기 (-)</item>
+        <item>나누기 (÷)</item>
+        <item>곱하기 (×)</item>
+    </string-array>
+</resources>
