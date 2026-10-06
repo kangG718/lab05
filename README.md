@@ -6,4 +6,4 @@
 - `android_app/`: Java와 XML로 만든 안드로이드 계산기 앱
 - `screenshots/`: 실행 화면 스크린샷
 
-e-Campus에 별도로 제출한 TDD 콘솔 화면과 안드로이드 앱 실행 화면 스크린샷 두 장도 `screenshots/`에 함께 첨부했습니다.
+e-Campus에 별도로 제출할 TDD 콘솔 화면과 안드로이드 앱 실행 화면 스크린샷 두 장도 `screenshots/`에 함께 첨부했습니다.
