@@ -32,4 +32,5 @@ SDK 설정은 `compileSdk 37`, `minSdk 23`, `targetSdk 33`입니다. M2 Mac의 A
 
 - `evidence/android_app_division.png`: 실기기에서 `100 ÷ 10 = 10` 화면 캡처
 - `evidence/android_app_divide_by_zero.png`: 실기기에서 0으로 나누기 안내 화면 캡처
+- `evidence/tdd_console.png`: Mac 터미널에서 실행한 Python 테스트 최종 콘솔 캡처
 - `evidence/tdd_console_output.txt`: Python 테스트의 실제 콘솔 출력 기록
